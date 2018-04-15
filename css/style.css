@@ -1,3 +1,10 @@
+/*
+Template Name: Online CV
+Description: HTML5 / CSS3 One Page
+Version: 1.0
+Author: themehippo.com
+*/
+
 /*------------------------------------------------------------------
 # [Color codes]
 
@@ -203,13 +210,13 @@ ul {
 
 /*btn-primary*/
 .btn-primary {
-    background-color : #2a54f5;
+    background-color : #455A64;
     }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active:focus {
-    background : #1e3eb5;
+    background : #607D8B;
     }
 
 /*btn-default*/
@@ -618,7 +625,7 @@ button:focus,
  * Preloader
  * ====================*/
 #preloader {
-    background : #2a54f5;
+    background : #78909C;
     bottom     : 0;
     left       : 0;
     position   : fixed;
