@@ -1,13 +1,3 @@
-/*------------------------------------------------------------------
-# [Color codes]
-
-# Body  (text): #3a4750
-# Heading Color #444444
-# Theme Color (link color) #82b541
-# Mid grey (sub header) #f4f4f4
-# Background Color #ffffff
-# -------------------------------------------------------------------*/
-
 body {
     font-family : 'Hind', sans-serif;
     font-size   : 15px;
@@ -618,7 +608,7 @@ button:focus,
  * Preloader
  * ====================*/
 #preloader {
-    background : #ffffff;
+    background : #546E7A;
     bottom     : 0;
     left       : 0;
     position   : fixed;
