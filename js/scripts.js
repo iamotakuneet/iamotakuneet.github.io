@@ -7,7 +7,7 @@ jQuery(function ($) {
     // --------------------------------------------------------------------
 
     (function () {
-        $('#preloader').delay(200).fadeOut('slow');
+        $('#preloader').delay(2000).fadeOut('slow');
     }());
 
 
